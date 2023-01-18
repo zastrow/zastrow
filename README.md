@@ -1,5 +1,6 @@
-- [zastrow.co](https://zastrow.co)
-- [Sparkbox](https://sparkbox.com/foundry/author/philip_zastrow)
+- **Personal Site:** [zastrow.co](https://zastrow.co)
+- **Jobby Job:** [Sparkbox](https://sparkbox.com/foundry/author/philip_zastrow)
 - [DigitalOcean Community](https://www.digitalocean.com/community/users/zastrow)
-- [CodePen](https://codepen.io/zastrow)
-- <a rel="me" href="https://mastodon.social/@zastrow">Mastodon</a>
+- 🦣 [Mastodon](https://mastodon.social/@zastrow)
+- 🖋️ [CodePen](https://codepen.io/zastrow)
+- 🏀 [Dribbble](https://dribbble.com/zastrow)
