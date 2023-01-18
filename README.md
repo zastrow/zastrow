@@ -2,3 +2,4 @@
 - [Sparkbox](https://sparkbox.com/foundry/author/philip_zastrow)
 - [DigitalOcean Community](https://www.digitalocean.com/community/users/zastrow)
 - [CodePen](https://codepen.io/zastrow)
+- <a rel="me" href="https://mastodon.social/@zastrow">Mastodon</a>
